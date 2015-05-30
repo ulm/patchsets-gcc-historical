@@ -28,3 +28,6 @@ core
 # CVS default ignores end
 .cvsignore
 *.bz2
+gcc-?.??.?
+gcc-?.?
+gcc-?.?.?
